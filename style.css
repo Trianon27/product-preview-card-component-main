@@ -76,10 +76,14 @@ body{
     align-items: center;
     width: 80%;
     
+    
 }
 
-#prices h1{
+#prices #main-price{
     color: hsl(158, 36%, 37%);
+    font-size: 2rem;
+    text-decoration:none;
+    margin: 0;
 }
 
 #prices p{
